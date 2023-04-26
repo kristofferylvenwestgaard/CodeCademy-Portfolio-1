@@ -1,7 +1,7 @@
-#Random Message generator
+# Random Message generator
 _________________________
 
-##Generating funny cat phrases
+## Generating funny cat phrases
 
-###Tech
+### Tech:
 * Javascript
